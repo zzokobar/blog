@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: supd.kr
+url: http://zzokobar.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
